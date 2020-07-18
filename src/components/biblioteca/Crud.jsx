@@ -10,7 +10,7 @@ const headerProps = {
     subtitle: 'Cadastro de Livros'
 }
 
-const baseUrl = 'http://localhost:3001/livros/'
+const baseUrl = 'https://my-json-server.typicode.com/JackBowln/biblioteca-backend/livros'
 const initialState = {
     livros: { autor: '', titulo: '', numpag: '', editor: '', tema: '' },
     list: []
