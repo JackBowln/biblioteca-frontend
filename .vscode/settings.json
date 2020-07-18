@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ba83125a-690d-433b-8ab4-b46c2a9f2fbe/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/biblioteca",
+    "appService.deploySubpath": "."
+}
