@@ -10,7 +10,7 @@ const headerProps = {
     subtitle: 'Cadastro de Livros'
 }
 
-const baseUrl = 'https://my-json-server.typicode.com/JackBowln/biblioteca-backend/livros'
+const baseUrl = 'https://api.npoint.io/6b3ed0e6241b89b7331d/livros'
 const initialState = {
     livros: { autor: '', titulo: '', numpag: '', editor: '', tema: '' },
     list: []
