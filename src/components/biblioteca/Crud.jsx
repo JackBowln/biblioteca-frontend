@@ -8,7 +8,7 @@ const headerProps = {
     subtitle: 'Cadastro de Livros'
 }
 
-const baseUrl = 'https://api.npoint.io/6b3ed0e6241b89b7331d/livros'
+const baseUrl = 'https://api.npoint.io/87736d3dd1b5c130a55c/livros'
 const initialState = {
     livros: { autor: '', titulo: '', subtitulo: '', numpag: '', editor: '', tema: '' },
     list: []
